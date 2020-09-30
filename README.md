@@ -1,4 +1,10 @@
 
+This repo is created and maintained by Rishabh Maurya (https://github.com/rishabh115), contributed by him to Twowaits for educational purposes!
+
+All the PULL Reuqests merged here will be ultimately merged in the original repo.
+
+
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
 ![](https://github.com/rishabh115/Interview-Questions/blob/master/thumbnail.png)
 
